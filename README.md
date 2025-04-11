@@ -1,3 +1,3 @@
-# Predicción-del-precio-de-las-acciones-de-APPLE-con-LSTM
+# Prediction of Apple Stock Prices Using LSTM 
 
-Este proyecto utiliza una red neuronal LSTM para predecir el precio de cierre de las acciones de Apple. Se entrenó el modelo con datos históricos diarios del periodo 2015–2024, y se evaluó su desempeño comparando las predicciones con los datos reales del año 2025. 
+This proyect uses an LSTM neuronal network to predit the closing price of Apple stock. The model was trained with historical daily data from the 2015-2024 period and its performance evaluated by comparing the prediction with real data from 2025. 
